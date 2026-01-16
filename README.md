@@ -29,7 +29,3 @@ Projetos desenvolvidos durante a graduação, cobrindo frontend, backend, mobile
 - 🌐 **mercado-frontend-web**  
   Frontend web em TypeScript  
   https://github.com/faculdade-ads/mercado-frontend-web
-
-- 🎬 **MovieFan**  
-  Aplicação JavaScript consumindo API de filmes  
-  https://github.com/faculdade-ads/MovieFan
